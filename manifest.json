@@ -1,0 +1,19 @@
+{
+  "name": "Baggybet",
+  "short_name": "Baggybet",
+  "theme_color": "",
+  "background_color": "#2F2F48",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770292323-baggybet-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
